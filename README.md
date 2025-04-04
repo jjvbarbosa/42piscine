@@ -7,9 +7,11 @@
 <h2>Português</h2>
 <ul>
   <li>Exercícios realizados por mim na piscina de abril de 2025 da Escola 42.</li>
+  <li>Nem todos os exercícios estão corretos. Utilize-os por sua conta e risco.</li>
 </ul>
 
 <h2>English</h2>
 <ul>
   <li>Exercises completed by me during the April 2025 piscine at 42 School.</li>
+  <li>Not all exercises are correct. Use ate your own risk.</li>
 </ul>
